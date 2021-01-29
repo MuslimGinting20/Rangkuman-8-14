@@ -18,7 +18,7 @@ Prinsip Jaringan Seluler
 
 MSISDN (Nomor Hp)
 
-    Mobile Subscriber Integrated Services Digital Network Number (MSISDN) adalah nomor identitas pelanggan yang bersifat unik dan merupakan nomor pelanggan yang terdaftar pelanggan di jaringan GSM. MSISDN memiliki struktur sebagai berikut:
+   Mobile Subscriber Integrated Services Digital Network Number (MSISDN) adalah nomor identitas pelanggan yang bersifat unik dan merupakan nomor pelanggan yang terdaftar pelanggan di jaringan GSM. MSISDN memiliki struktur sebagai berikut:
 MSISDN = CC + NDC + SN
 misal : 62817541234567
 CC (Country Code) = 62 (Indonesia)
@@ -38,8 +38,11 @@ SN (Serial Number) = 541234567
     Jaringan 4G telah mulai meningkatkan data bandwidth sekitar sepuluh kali lipat dari jaringan 3G. 4G adalah teknologi yang sangat berbeda dibandingkan dengan 3G. 4G dihadirkan untuk menyediakan jaringan internet dengan kecepatan tinggi, kualitas tinggi dan kapasitas tinggi kepada pengguna namun tetap menjaga tingkat keamanan, menurunkan biaya layanan suara dan data, multimedia dan internet melalui IP. Standar yang di tawarkan dari jaringan 4G adalah kecepatan akses searching, pelayanan games, video dengan kualitas tinggi, TV-support dan masih banyak lagi. Kecepatan maksimal jaringan 4G adalah 100 Mbps atau 1 Gbps.
     
  PIN
+  
   PIN (Personal Identity Number) adalah kode akses yang terdiri dari 4-8 digit yang digunakan untuk pengamanan SIM card Anda dari penggunaan yang tidak sah.
+ 
  PUK
+  
   PUK (Personal Unblocking Key) dan PUK 2 digunakan untuk meng-unlock PIN dan PIN2 jika SIM terkunci.
 
 Generasi Seluler
