@@ -63,10 +63,12 @@ Generasi Seluler
 . Mobile Station (MS)
 Merupakan perangkat yang digunakan oleh pelanggan untuk melakukan pembicaraan. Terdiri atas :
 
-1. Mobile Equipment (ME)
-    Merupakan perangkat GSM yang berada di sisi pengguna yang berfungsi sebagai terminal transceiver (pengirim dan penerima sinyal) untuk berkomunikasi dengan perangkat GSM lainnya.
+## 1. Mobile Equipment (ME)
+    
+   Merupakan perangkat GSM yang berada di sisi pengguna yang berfungsi sebagai terminal transceiver (pengirim dan penerima sinyal) untuk berkomunikasi dengan perangkat GSM lainnya.
 
-2. Subscriber Identity Module (SIM)
-   Merupakan kartu yang berisi seluruh informasi pelanggan dan beberapa informasi pelayanan. ME tidak akan dapat digunakan tanpa SIM didalamnya, kecuali untuk panggilan darurat. Data yang disimpan dalam SIM secara umum, adalah:
+## 2. Subscriber Identity Module (SIM)
+  
+  Merupakan kartu yang berisi seluruh informasi pelanggan dan beberapa informasi pelayanan. ME tidak akan dapat digunakan tanpa SIM didalamnya, kecuali untuk panggilan darurat. Data yang disimpan dalam SIM secara umum, adalah:
 IMMSI (International Mobile Subscriber Identity), merupakan penomoran pelanggan.
 MSISDN (Mobile Subscriber ISDN), nomor yang merupakan nomor panggil pelanggan.
