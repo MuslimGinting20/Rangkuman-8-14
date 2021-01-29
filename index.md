@@ -138,3 +138,23 @@ Mobile TV
 
 ## SATELIT
 Satelit adalah benda langit yang tidak memiliki sumber cahaya sendiri dan bergerak mengelilingi planet tertentu sambil mengikuti planet tersebut beredar dengan periode revolusi dan rotasi tertentu. Ada dua macam satelit, yakni satelit alam dan satelit buatan. Satelit alam adalah benda-benda luar angkasa bukan buatan manusia yang mengorbit sebuah planet atau benda lain yang lebih besar daripada dirinya. Contohnya Bulan yang merupakan satelit dari Bumi.
+
+## SEJARAH SATELIT
+Satelit buatan manusia pertama adalah Sputnik 1, diluncurkan oleh Soviet pada tanggal 4 Oktober 1957, dan memulai Program Sputnik Rusia, dengan Sergei Korolev sebagai kepala disein dan Kerim Kerimov sebagai asistentnya. Peluncuran ini memicu lomba ruang angkasa (space race) antara Soviet dan Amerika. Sputnik 1 membantu mengidentifikasi kepadatan lapisan atas atmosfer dengan jalan mengukur  perubahan orbitnya dan memberikan data dari distribusi signal radio pada lapisan ionosphere.
+
+## KARAKTERISTIK SATELIT
+* Cara kerja satelit secara system konvensional :
+Yaitu dengan mengirimkan sinyal dari computer dan direlai oleh satelit tanpa di lakukan pemprosesan dalam satelit. Kelemahan metode ini, computer yang ter-hubung langsung pada satelit harus bekerja selama 24 jam. Jika salah satu computer dimatikan maka hubungan ke computer tersebut akan terputus. Keuntungannya satelit komunikasi konvensional dapat digunakan tanpa perlu dimodifikasi. Computer dalam satelit berfungsi untuk menyimpan sementara informasi yang secara otomatis dapat dilakukan.
+* Cara kerja transmisi data melalui satelit :
+Pemanfaatan system komunikasi satelit telah memberikan kemampuan bagi manusia untuk berkomunikasi dan mendapatkan informasi dari berbagai penjuru dunia secara simultan tanpa memperhatikan jarak relatifnya. Komponen dasar dari transmisi satelit adalah :
+
+- Stasiun bumi, digunakan untuk mengirim dan menerima data
+- Satelit, disebut juga dengan transponder
+
+PC yang menggunakan jaringan internet dengan jaringan satelit dikatagorikan se-bagai jaringan wireless dengan menggunakan gelombang mikro. Gelombang mikro ini akan ditransmisikan dan diproses oleh stasiun satelit bumi yang kemudian ditransmisikan ke satelit di angkasa luar, dan selanjutnya akan dinerima kembali oleh stasiun sateit bumi tujuan.
+
+Cara kerja transmisi data melalui satelit dengan memperhatikan komponen-komponen tersebut, yaitu satelit menerima sinyal dari stasiun bumi (up-link) kemudian memperkuat sinyal, mengubah frekuensi dan mentransmisikan kembali data ke stasiun bumi penerima yang lain (down-link). Dalam transmisi satelit ter-jadi penundaan atau delay karena sinyal harus bergerak menuju ruang angkasa dan kembali lagi ke bumi, jeda waktu sekitar 0,5 sekon. Satelit menggunakan frek-uensi yang berbeda untuk menerima dan mentransmisikan data. Jangkauan frekuensi satelit adalah:
+
+4-6 giga hertz,disebut dengan C-band
+12-14 giga hertz, disebut dengan Ku-Band
+20 giga hertz.
