@@ -7,7 +7,6 @@ jaringan nirkabel
 
 •Menggantikan sistem transmiter/receiver dengan
 kebutuhan daya besar
-
-• Seluler menggunakan perangkat dengan daya rendah
-• Jangkauan transmisi lebih pendek
-• Lebih banyak transmitter
+- Seluler menggunakan perangkat dengan daya rendah
+- Jangkauan transmisi lebih pendek
+- Lebih banyak transmitter
