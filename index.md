@@ -72,3 +72,14 @@ Merupakan perangkat yang digunakan oleh pelanggan untuk melakukan pembicaraan. T
   Merupakan kartu yang berisi seluruh informasi pelanggan dan beberapa informasi pelayanan. ME tidak akan dapat digunakan tanpa SIM didalamnya, kecuali untuk panggilan darurat. Data yang disimpan dalam SIM secara umum, adalah:
 IMMSI (International Mobile Subscriber Identity), merupakan penomoran pelanggan.
 MSISDN (Mobile Subscriber ISDN), nomor yang merupakan nomor panggil pelanggan.
+
+## * Kelebihan GSM
+1. Penyebaran jaringan yang luas hingga ke pelosok.
+2. Bebas dari roaming.
+3. Harga bagi konsumen relative murah.
+4. Kompatibilitas handheld yang banyak dan beragam.
+
+## * Kelemahan GSM
+
+1. Keamanan data yang kurang baik.
+2. Penggunaan timeslot yang membuat terkadang jaringan sering mengalami gangguan.
