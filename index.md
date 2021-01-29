@@ -48,7 +48,10 @@ SN (Serial Number) = 541234567
 Generasi Seluler
 
 1G 🡪 AMPS (Advanced Mobile Phone Service)
+
 2G 🡪 GSM (Global System for Mobile Communication)
+
 3G 🡪 EVDO (Evolution Data Optimized)
+
 4G 🡪 LTE (Long Term Evolution)
 
