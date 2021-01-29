@@ -155,25 +155,25 @@ PC yang menggunakan jaringan internet dengan jaringan satelit dikatagorikan se-b
 
 Cara kerja transmisi data melalui satelit dengan memperhatikan komponen-komponen tersebut, yaitu satelit menerima sinyal dari stasiun bumi (up-link) kemudian memperkuat sinyal, mengubah frekuensi dan mentransmisikan kembali data ke stasiun bumi penerima yang lain (down-link). Dalam transmisi satelit ter-jadi penundaan atau delay karena sinyal harus bergerak menuju ruang angkasa dan kembali lagi ke bumi, jeda waktu sekitar 0,5 sekon. Satelit menggunakan frek-uensi yang berbeda untuk menerima dan mentransmisikan data. Jangkauan frekuensi satelit adalah:
 
-- 4-6 giga hertz,disebut dengan C-band
-- 12-14 giga hertz, disebut dengan Ku-Band
-- 20 giga hertz.
+ - 4-6 giga hertz,disebut dengan C-band
+ - 12-14 giga hertz, disebut dengan Ku-Band
+ - 20 giga hertz.
  
 * Macam-Macam Satelit
   - Satelit Alami 
   - Satelit BUatan
  
- Satelit Alami
+## Satelit Alami
 Satelit alami yaitu salah satu benda luar angkasa yang sudah ada (bukan buatan dari manusia) yang mengorbit sebuah planet. Satelit alami bumi yaitu bulan. Selama bulan   mengelilingi planet bumi, bulan mengalami tiga gerakan sekaligus, yakni ber rotasi, ber revolusi, bulan mengelilingi bumi dan revolusi bulan mengelilingi matahari
  
-Fungsi Satelit Alami
+- Fungsi Satelit Alami
 	Secara tidak lansung satelit alami untuk melindungi sebuah planet yang diorbitnya dari suatu hantaman benda langit lain seperti komet dan asteroid
 Untuk mengontrol sebuah kecepatan rotasi pada sebuah planet karena efeknya gravitasional tidal wave
 agar menyeimbangkan sebuah perputaran siklus air laut yang mengakibatkan pasang surut pada air laut
 Agar mengurangi suatu efek yang ditimbulkan akibat suatu radiasi sinar ultraviolet
 Sebagai penerangan pada waktu malam hari
 
-Contoh Satelit Alami
+- Contoh Satelit Alami
 
 - Bulan, yakni satelit alami yang dipunyai planet bumi
 - Callisto
@@ -181,3 +181,26 @@ Contoh Satelit Alami
 - Satelit Io, yakni yang mengelilingi planet jupiter
 - Satelit Titan yakni yang mengorbit planet saturnus
  
+ 2. Satelit Buatan
+
+    Satelit buatan ialah salah satu benda luar angkasa buatan manusia yang mengorbit sebuah planet yang dalam pembuatannya mempunyai jenis dan fungsi tertentu dengan suatu tujuan untuk kepentingan manusia. Berikut adalah jenis-jenis satelit yang berdasarkan fungsinya:
+
+- Satelit navigasi, yaitu salah satu jenis satelit buatan manusia yang mempunyai fungsi untuk dunia penerbangan dan pelayaran. Satelit navigasi ini bisa memberikan sebuah informasi tentang posisi pesawat terbang dan kapal yang berada dalam perjalanan.
+- Satelit geodesi, yakni satelit jenis satelit buatan manusia yang mempunyai fungsi untuk guna melakukan sebuah pemetaan bumi serta untuk mendapatkan berbagai sebuah informasi tentang gravitasi.
+- Satelit komunikasi, yakni salah satu jenis satelit buatan manusia syang mempunyai fungsi dalam dunia komunikasi, misalnya seperti televisi, telepon, dan sebagainya.
+- Satelit meteorologi, yakni salah satu jenis buatan manusia yang mempunyai fungsi dalam menyelidiki suatu atmosfer bumi untuk melakukan dalam peramalan cuaca.
+- Satelit penelitian, yakni salah satu jenis satelit buatan yang mempunyai fungsi dalam menyelidiki tata surya serta alam semesta yang secara lebih luas dan bebas tanpa adanya pengaruh oleh atmosfer. Satelit penelitian ini berusaha untuk mendapatkan berbagai sebuah data-data yang mengenai matahari dan juga bintang-bintang lainnya guna untuk mengetahui rahasia alam semesta.
+- Satelit militer, yakni salah satu jenis satelit buatan yang mempunyai fungsi dalam dunia militer negara, misalnya dalam mengintai suatu kekuatan dari senjata musuh.
+- Satelit survei sumber daya alam, yakni satelit yang berfungsiuntuk dalam memetakan serta untuk menyelidiki berbagai sumber-sumber alam yang terdapat dibumi untuk sebuah kepentingan suatu pertambangan, perikanan, pertanian, dan sebagainya.
+
+3. Berdasarkan dari ketinggian garis edarnya, satelit dibedakan menjadi 3 macam, yaitu:
+Satelit LEO (Low Earh Orbit) yaitu sebuah satelit yang mempunyai garis edar yang rendah yakni antara 500 km sampai dengan 10000 km dari sebuah permukaan bumi. Waktu untuk revolusi satelit LEO ini yaitu 2 sampai dengan 6 jam. Contoh satelit LEO yaitu Global Star, Iridium, Elipsat, Constellation, dan Odessey.
+Satelit MEO (Medium Earth Orbit) MEO adalah suatu satelit yang mempunyai suatu garis edar menengah yakni sekitar antara 10000 km sampai dengan 20000 km dari sebuah permukaan bumi. Waktu untuk revolusi satelit MEO ini yaitu 6 hingga sampai dengan 12 jam.
+Satelit GEO (Geostatinonary Earth Global) jenis satelit ini satelit yang berada dalam orbit geostasioner yakni sekitar antara 36000 km dari sebuah permukaan bumi. Orbit stasioner ini yaitu suatu orbit yang bisa mengakibatkan waktu revolusi satelit GEO sama dengan rotasi bumi, yakni 1 hari. Contohnya satelit GEO ini satelit palapa dan satelit intelsat.
+
+Cara Kerja Satelit
+
+   Satelit yang mengelilingi bumi akan dikontrol oleh Master Control Station di bumi. Pengendalian satelit terletak pada puluhan ribu kilo meter dari bumi yang menggunakan sistem otomatis dan didasarkan pada dua sistem pengendalian yaitu Spin Stabillized Satellite dan Three Axiz Body Stabillized.
+    Three Axiz Body Stabillized adalah pengendalian posisi satelit berdasarkan pada sumbu koordinat X, Y dan Z. Dengan tiga sumbu tersebut maka akan dipetakan menjadi posisi pitch, roll dan yaw.
+Stabillized Satellite adalah cara pengendalian satelit dengan menggerakan badan satelit dengan berputar untuk menuju posisi yang diinginkan. Secara teori, satelit akan diam pada tempatnya namun pada kenyataannya akan bergeser dari orbit sebenarnya.
+    Satelit bekerja dengan dibagi dua cara jerja yaitu uplink dan downlink. Uplink adalah transmisi yang dikirim dari bumi menuju ke satelit dan downlink adalah transmisi dari satelit ke bumi. Pada dasarnya komunikasi satelit dan cara kerja satelit berfungsi untuk repeater di langit, satelit juga menggunakan transponders yaitu alat yang dapat memungkinkan terjadinya komunikasi dua arah
