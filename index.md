@@ -45,6 +45,7 @@ SN (Serial Number) = 541234567
   
   PUK (Personal Unblocking Key) dan PUK 2 digunakan untuk meng-unlock PIN dan PIN2 jika SIM terkunci.
 
+
 Generasi Seluler
 
 1G 🡪 AMPS (Advanced Mobile Phone Service)
