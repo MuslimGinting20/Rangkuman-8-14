@@ -286,3 +286,61 @@ Dengan keterbatasan jaringan kabel, maka WiMAX juga bisa dimanfaatkan sebagai ba
 
     WiMAX dapat digunakan sebagai backhaul teknologi lain. Seperti backhaul seluler. Dengan kemampuan data rate di atas 2 Mbps maka sangat layak bila WiMAX digunakan sebagai backhaul dari
 sistem seluler.
+
+## PERTEMUAN 14
+
+## Antena
+
+   Antena adalah sebuah antarmuka antara gelombang radio yang merambat melalui ruang dan arus listrik yang bergerak dalam konduktor logam, dan digunakan dengan pemancar atau penerima. Dalam transmisi, pemancar radio memasok arus listrik ke terminal antena, dan antena memancarkan daya dari arus sebagai gelombang elektromagnetik (gelombang radio). Dalam penerimaan, antena memotong beberapa kekuatan gelombang radio untuk menghasilkan arus listrik di terminalnya, yang diterapkan ke penerima untuk diperkuat. Antena adalah komponen penting dari semua peralatan radio. Antena adalah salah satu elemen penting yang harus ada pada sebuah teleskop radio, TV, radar, dan semua alat komunikasi nirkabel lainnya. Sebuah antena adalah bagian vital dari suatu pemancar atau penerima yang berfungsi untuk menyalurkan sinyal radio ke udara.Bentuk antena bermacam macam sesuai dengan desain, pola penyebaran dan frekuensi dan gain. Panjang antena secara efektif adalah panjang gelombang frekuensi radio yang dipancarkannya. Antena dipol setengah gelombang adalah sangat populer karena mudah dibuat dan mampu memancarkan gelombang radio secara efektif.
+
+Macam-macam Antena
+
+1. Antena Grid
+    Antena Grid berbentuk seperti jaring. Antena ini termasuk antena directional yang memiliki polarisasi ke arah tertentu atau satu arah. Antena ini banyak digunakan client jarak jauh dengan menggunakan teknologi Point to Point dimana pemancar dan penerima sama-sama menggunakan antena grid. Frekuensi yang dimiliki antena ini 2,4 Ghz dan 5,8 Ghz. Antena ini memiliki gain hingga 27 dBi.
+
+2. Antena Omni
+    Antena Omni banyak digunakan sebagai pemancar karena cakupannya luas. Antena ini berbentuk seperti tongkat. Omni memiliki polarisasi ke segala arah atau 360 derajat dan termasuk dalam jaringan Point to Multi Point. Antena ini memiliki frekuensi 2,4 Ghz dan 5,8 Ghz serta memiliki gain 3-13 dBi. Antena ini yang paling sering digunakan sebagai hotspot.
+
+3. Antena Yagi
+    Antena Yagi berbentuk seperti tulang ikan. Antena ini hanya memiliki polarisasi searah sehingga harus diarahkan ke antena pemancar di tempat lain dan lebih cocok digunakan sebagai mode client. Antena ini memiliki frekuensi 2,4 Ghz dan 5,8 Ghz serta memiliki gain hingga 16 dBi. Antena Yagi termasuk dalam jaringan Point to Point.
+
+4. Antena Sectoral
+    Antena Sectoral berbentuk seperti tabung. Antena ini pada dasarnya hampir mirip dengan antena omni, perbedaannya yaitu terletak pada bentuk dan arah pancarannya. Antena omni bisa memancarkan 360 dearajat, sedangkan antena sectoral hanya bisa sampai 180 derajat. Antena Sectoral memiliki gain 10-19 dBi. Antena ini termasuk dalam jaringan Point to Point maupun Point to Multi Point.
+
+
+5. Antena Parabolik
+    Antena Parabolik memiliki gain 18-28 dBi. Antena ini hampir mirip dengan antena grid, hanya saja jangkauannya lebih fokus. Jarak jangkauan antena grid kalah unggul dibanding antena parabolik ini. Antena parabolik termasuk dalam jaringan Point to Point jarak jauh.
+
+6. Antena Wajan Bolik
+    Antena wajan bolik berbentuk seperti wajan. Antena ini hampir mirip dengan antena parabolik, bedanya terletak pada reflektor parabolic-disc yang menggunakan wajan. Antena wajan bolik digunakan untuk memperkuat jangkauan usb wifi yang sudah tidak kuat menangkap sinyal, jangkauannya tidak begitu jauh hanya berkisar ratusan meter saja.
+
+7. Antena PVC
+    Antena ini terbuat dari pipa PVC yang dilapisi aluminium foil. Keunggulannya adalah tahan terhadap berbagai cuaca, mudah dipasang dan tidak akan berkarat. Akan tetapi, antena ini hanya bisa mencakup sinyal dalam jarak dekat, 200-300 m saja.
+
+8. Antena 8 Quad
+    Pada dasarnya antena ini merupakan bagian dari antena sectoral. Sebab, pola radiasinya masih dalam satu arah jika dibuat sudut arah yang lebar. Biasanya, antena ini sering digunakan untuk antena access point saat klien berada di sebuah area.
+
+Model Propagasi
+
+Ground Wave Propagation
+1. Propagasi mengikuti kontur bumi.
+2. Sinyal dapat dipropagasikan untuk jarak yang jauh.
+3. Untuk frekuensi di bawah 2 MHz.
+4. Contoh: AM radio.
+
+Sky Wave Propagation
+1. Sinyal dipantulkan dari lapisan terionisasi pada atmosfer ke bumi.
+2. Sinyal dapat berjalan melewati beberapa hop, memantul antara ionosfer dan permukaan bumi.
+3. Efek pemantulan diakibatkan oleh refraction.
+4. Contoh: Amateur radio dan CB radio.
+
+Line Of Sight Propagation
+1. Antena transmitter dan receiver harus berada pada posisi Line Of Sight (LOS).
+Komunikasi satelit sinyal di atas 30 MHz tidakcdipantulkan oleh ionosphere.
+Komunikasi pada ground antar antena pada effective line of site karena refraction.
+2. Refraction – pembelokan microwaves oleh atmosphere.
+Kecepatan gelombang electromagnetic adalah fungsi kepadatan medium medium.
+Kecepatan 3x108 adalah kecepatan cahaya pada ruang hampa.
+Ketika gelombang berpindah medium, kecepatan berubah.
+Gelombang dibelokkan pada batas antara dua medium.
+
