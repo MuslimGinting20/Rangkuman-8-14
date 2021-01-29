@@ -133,3 +133,8 @@ MMS
 Mobile TV
 
    Transmisi program TV atau video untuk peralatanmultimedia dari telepon yang mendukung Mobile TV sampai ke PDA dan peralatan multimedia tanpa kabel.
+	 
+## PERTEMUAN 11
+
+## SATELIT
+Satelit adalah benda langit yang tidak memiliki sumber cahaya sendiri dan bergerak mengelilingi planet tertentu sambil mengikuti planet tersebut beredar dengan periode revolusi dan rotasi tertentu. Ada dua macam satelit, yakni satelit alam dan satelit buatan. Satelit alam adalah benda-benda luar angkasa bukan buatan manusia yang mengorbit sebuah planet atau benda lain yang lebih besar daripada dirinya. Contohnya Bulan yang merupakan satelit dari Bumi.
