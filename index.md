@@ -1,3 +1,5 @@
+## PERTEMUAN 8
+
 ## PENGENALAN JARINGAN SELULER
 
 ### Prinsip Jaringan Seluler
@@ -35,10 +37,12 @@ Jaringan 2G muncul pada tahun 1990-an yang menggabungkan sinyal digital ke dalam
 Jaringan 2G muncul pada tahun 1990-an yang menggabungkan sinyal digital ke dalam jaringan seluler. 2G adalah implementasi digital pertama dari komunikasi suara nirkabel. 2G juga memperkenalkan layanan data seluler yang aman dan mampu mengirimkan pesan teks (SMS) dan pesan multimedia (MMS). 2G juga menerapkan konsep CDMA dan GSM. Dengan konsep CDMA dan GSM itu kecepatan maksimal dari jaringan 2G bisa mencapai 50 Kbps atau 1 Mbps.
 
  - PIN
-  PIN (Personal Identity Number) adalah kode akses yang terdiri dari 4-8 digit yang digunakan untuk pengamanan SIM card Anda dari penggunaan yang tidak sah.
+ 
+ PIN (Personal Identity Number) adalah kode akses yang terdiri dari 4-8 digit yang digunakan untuk pengamanan SIM card Anda dari penggunaan yang tidak sah.
  
  - PUK
-  PUK (Personal Unblocking Key) dan PUK 2 digunakan untuk meng-unlock PIN dan PIN2 jika SIM terkunci.
+ 
+ PUK (Personal Unblocking Key) dan PUK 2 digunakan untuk meng-unlock PIN dan PIN2 jika SIM terkunci.
 
 
 Generasi Seluler
@@ -50,4 +54,11 @@ Generasi Seluler
  3G -> EVDO (Evolution Data Optimized)
  
  4G -> LTE (Long Term Evolution)
+ 
+## PERTEMUAN 9
 
+## GSM
+-> Global System for Mobile Communication (GSM) adalah sebuah teknologi komunikasi seluler yang bersifat digital. Teknologi GSM banyak diterapkan pada mobile communication, khususnya handphone. Teknologi ini memanfaatkan gelombang mikro dan pengiriman sinyal yang dibagi berdasarkan waktu, sehingga sinyal informasi yang dikirim akan sampai pada tujuan. GSM dijadikan standar global untuk komunikasi seluler sekaligus sebagai teknologi seluler yang paling banyak digunakan orang di seluruh dunia.
+
+. Mobile Station (MS)
+Merupakan perangkat yang digunakan oleh pelanggan untuk melakukan pembicaraan. Terdiri atas :
