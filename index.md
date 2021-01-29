@@ -155,6 +155,29 @@ PC yang menggunakan jaringan internet dengan jaringan satelit dikatagorikan se-b
 
 Cara kerja transmisi data melalui satelit dengan memperhatikan komponen-komponen tersebut, yaitu satelit menerima sinyal dari stasiun bumi (up-link) kemudian memperkuat sinyal, mengubah frekuensi dan mentransmisikan kembali data ke stasiun bumi penerima yang lain (down-link). Dalam transmisi satelit ter-jadi penundaan atau delay karena sinyal harus bergerak menuju ruang angkasa dan kembali lagi ke bumi, jeda waktu sekitar 0,5 sekon. Satelit menggunakan frek-uensi yang berbeda untuk menerima dan mentransmisikan data. Jangkauan frekuensi satelit adalah:
 
-4-6 giga hertz,disebut dengan C-band
-12-14 giga hertz, disebut dengan Ku-Band
-20 giga hertz.
+- 4-6 giga hertz,disebut dengan C-band
+- 12-14 giga hertz, disebut dengan Ku-Band
+- 20 giga hertz.
+ 
+ * Macam-Macam Satelit
+ - Satelit Alami 
+ - Satelit BUatan
+ 
+ Satelit Alami
+ Satelit alami yaitu salah satu benda luar angkasa yang sudah ada (bukan buatan dari manusia) yang mengorbit sebuah planet. Satelit alami bumi yaitu bulan. Selama bulan mengelilingi planet bumi, bulan mengalami tiga gerakan sekaligus, yakni ber rotasi, ber revolusi, bulan mengelilingi bumi dan revolusi bulan mengelilingi matahari
+ 
+Fungsi Satelit Alami
+	Secara tidak lansung satelit alami untuk melindungi sebuah planet yang diorbitnya dari suatu hantaman benda langit lain seperti komet dan asteroid
+Untuk mengontrol sebuah kecepatan rotasi pada sebuah planet karena efeknya gravitasional tidal wave
+agar menyeimbangkan sebuah perputaran siklus air laut yang mengakibatkan pasang surut pada air laut
+Agar mengurangi suatu efek yang ditimbulkan akibat suatu radiasi sinar ultraviolet
+Sebagai penerangan pada waktu malam hari
+
+Contoh Satelit Alami
+
+- Bulan, yakni satelit alami yang dipunyai planet bumi
+- Callisto
+- Ganymede
+- Satelit Io, yakni yang mengelilingi planet jupiter
+- Satelit Titan yakni yang mengorbit planet saturnus
+ 
