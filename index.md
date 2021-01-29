@@ -209,7 +209,7 @@ Stabillized Satellite adalah cara pengendalian satelit dengan menggerakan badan 
 
 Global Positioning System (GPS)
 
-    GPS adalah sistem yang memungkinkan kita menentukan lokasi secara akurat menggunakan satelit, yang diciptakan oleh Amerika Serikat. Rusia (GLONASS) dan China (BeiDou) pun memiliki solusi penentu lokasi yang serupa. Untuk dapat mengetahui lokasinya dengan menggunakan satelit (GPS/GLONASS/BeiDou), smartphone sebenarnya tidak membutuhkan paket data. Mengapa demikian? Karena, yang dilakukan oleh sistem navigasi di dalam smartphone Anda adalah “mendengar” sinyal dari satelit, bukan melakukan transaksi data.
+   GPS adalah sistem yang memungkinkan kita menentukan lokasi secara akurat menggunakan satelit, yang diciptakan oleh Amerika Serikat. Rusia (GLONASS) dan China (BeiDou) pun memiliki solusi penentu lokasi yang serupa. Untuk dapat mengetahui lokasinya dengan menggunakan satelit (GPS/GLONASS/BeiDou), smartphone sebenarnya tidak membutuhkan paket data. Mengapa demikian? Karena, yang dilakukan oleh sistem navigasi di dalam smartphone Anda adalah “mendengar” sinyal dari satelit, bukan melakukan transaksi data.
 
 Kemampuan GPS
 
@@ -235,3 +235,54 @@ Cara Kerja GPS
 3. Untuk mengukur travel time, GPS memerlukan memerlukan akurasi waktu yang tinggi.
 4. Untuk perhitungan jarak, kita harus tahu dengan pasti posisi satelit dan ketingian pada orbitnya.
 5. Terakhir harus menggoreksi delay sinyal waktu perjalanan di atmosfer sampai diterima reciever.
+
+## PERTEMUAN 13
+WiMAX
+
+   WiMAX adalah singkatan dari Worldwide Interoperability for Microwave Access, merupakan teknologi akses nirkabel pita lebar (broadband wireless access atau disingkat BWA) yang memiliki kecepatan akses yang tinggi dengan jangkauan yang luas.
+
+Prinsip Kerja WiMAX
+
+   Prinsip kerja WiMAX. Sistem kerja WiMAX sama dengan WiFi yang menyediakan sebuah jaringan internet pada suatu area yang dijangkaunya. Namun, WiMAX memiliki wilayah dengan jangkauan yang jauh lebih luas dan kecepatan yang lebih tinggi dibandingkan dengan WiFi.
+    Jaringan WiFi disebut juga sebagai Local Area Network (LAN), jaringan komputer yang jaringannya mencakup wilayah berukuran kecil, seperti jaringan komputer pada gedung, rumah, kantor, kampus, sekolah, atau area yang lainnya.
+    Jaringan WiMAX disebut juga sebagai Metropolitan Area Network (MAN), jangkauan tersebut dapat mencakup area yang cukup luas.
+Perbedaan WIFI (IEEE 802.11) dan WiMAX (IEEE 802.16)
+WiFi hanya dapat melingkupi coverage area beberpa meter saja, yang hanya dapat mencukupi akses internet hanya pada satu gedung saja. 
+Sedangkan WiMax, memiliki cakupan coverage area lebih luas, yaitu sekitar 50 km. WiFi menggunakan standar IEEE 802.11 dan ETSI HiperLAN.
+Elemen/Perangkat WiMAX
+
+1. Base Station (BS)
+
+    Merupakan perangkat transceiver (transmitter dan receiver) yang biasanya dipasang satu lokasi (colocated) dengan jaringan Internet Protocol (IP). Dari BS ini akan disambungkan ke beberapa CPE dengan media interface gelombang radio (RF) yang mengikuti standar WiMAX. Komponen BS terdiri dari:
+NPU (Networking Processing Unit card)
+AU (Access Unit Card)
+PIU (Power Interface Unit)
+AVU (Air Ventilation Unit)
+PSU (Power Supply Unit)
+2. Antena
+
+Antena yang dipakai di BS dapat berupa sektor 60°, 90°, atau 120° tergantung dari area yang akan dilayani.
+
+3. Subscriber Station (SS)
+
+    Secara umum Subscriber Station (SS) atau (Customer Premises Equipment) CPE terdiri dari Outdoor Unit (ODU) dan Indoor Unit (IDU), perangkat radionya ada yang terpisah dan ada yang terintegrasi dengan antena.
+
+Berbagai Aplikasi WiMAX
+
+1. Aplikasi Backhaul
+
+    Untuk aplikasi ini, WiMAX dapat dimanfaatkan untuk backhaul WiMAX itu sendiri, backhaul Hotspot dan backhaul teknologi lain. Dalam aplikasi ini agar dapat dipakai secara maksimal maka biasanya dilakukan konfigurasi P2P.
+
+2. Backhaul WiMAX
+
+    Aplikasinya mirip dengan fungsi BTS sebagai repeater dalam sistem seluler. Bertujuan untuk memperluas jangkauan dari WiMAX.
+
+3. Backhaul Hotspot
+
+    Saat ini sebagian besar jaringan hotspot banyak menggunakan saluran ASDL sebagai backhaulnya.
+Dengan keterbatasan jaringan kabel, maka WiMAX juga bisa dimanfaatkan sebagai backhaul hotspot.
+
+4. Backhaul Teknologi Lain
+
+    WiMAX dapat digunakan sebagai backhaul teknologi lain. Seperti backhaul seluler. Dengan kemampuan data rate di atas 2 Mbps maka sangat layak bila WiMAX digunakan sebagai backhaul dari
+sistem seluler.
