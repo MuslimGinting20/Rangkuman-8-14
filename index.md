@@ -159,12 +159,12 @@ Cara kerja transmisi data melalui satelit dengan memperhatikan komponen-komponen
 - 12-14 giga hertz, disebut dengan Ku-Band
 - 20 giga hertz.
  
- * Macam-Macam Satelit
- - Satelit Alami 
- - Satelit BUatan
+* Macam-Macam Satelit
+  - Satelit Alami 
+  - Satelit BUatan
  
  Satelit Alami
- Satelit alami yaitu salah satu benda luar angkasa yang sudah ada (bukan buatan dari manusia) yang mengorbit sebuah planet. Satelit alami bumi yaitu bulan. Selama bulan mengelilingi planet bumi, bulan mengalami tiga gerakan sekaligus, yakni ber rotasi, ber revolusi, bulan mengelilingi bumi dan revolusi bulan mengelilingi matahari
+Satelit alami yaitu salah satu benda luar angkasa yang sudah ada (bukan buatan dari manusia) yang mengorbit sebuah planet. Satelit alami bumi yaitu bulan. Selama bulan   mengelilingi planet bumi, bulan mengalami tiga gerakan sekaligus, yakni ber rotasi, ber revolusi, bulan mengelilingi bumi dan revolusi bulan mengelilingi matahari
  
 Fungsi Satelit Alami
 	Secara tidak lansung satelit alami untuk melindungi sebuah planet yang diorbitnya dari suatu hantaman benda langit lain seperti komet dan asteroid
