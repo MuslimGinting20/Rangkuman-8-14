@@ -83,3 +83,53 @@ MSISDN (Mobile Subscriber ISDN), nomor yang merupakan nomor panggil pelanggan.
 
 1. Keamanan data yang kurang baik.
 2. Penggunaan timeslot yang membuat terkadang jaringan sering mengalami gangguan.
+
+## PERTEMUAN 10
+
+### Sejarah CDMA
+
+    Teknologi CDMA pada awalnya dipergunakan dalam komunikasi radio militer Amerika Serikat (AS), mulai tahun 1990 patennya diberikan kepada Qualcomm, Inc. dan dijadikan sebagai standar seluler digital di AS sejak tahun 1993. Oleh karena itu tidak heran jika teknologi ini sangat aman karena tidak dapat digandakan (dikloning). Sehingga teknologi ini sangat cocok bagi kegunaan layanan telepon banking seperti transfer, cek saldo, dan lain-lain.
+
+* Apa itu CDMA?
+
+    CDMA (Code Division Multiple Access) adalah teknologi akses jamak dimana masing-masing user menggunakan code yang unik dalam mengakses kanal yang terdapat dalam sistem. Pada CDMA, sinyal informasi pada transmitter dicoding dan disebar dengan bandwidth sebesar 1.25 MHz (spread spectrum), kemudian pada sisi repeater dilakukan decoding sehingga didapatkan sinyal informasi yang dibutuhkan. Sistem komunikasi CDMA ini mempunyai spesifikasi sebagai berikut:
+Bandwidth: 1.25 MHz
+Frek Uplink: 869 – 894 MHz atau 1930 – 1990 MHz
+Free Downlink: 824 – 894 MHz atau 1850 – 1910 MHz
+
+* Sifat-sifat CDMA
+
+1. Kapasitas lebih tinggi
+2. Peningkatan call security
+3. Mereduksi derau dan interfensi lainnya
+4. Efisiensi daya
+5. Fasilitas koordinasi seluruh frekuensi
+6. Integrasi layanan suara,data dan video
+
+- Kelebihan CDMA
+
+1. Menggunakan metode enkripsi dengan code unik untuk proses komunikasi sehingga lebih aman
+2. Memiliki harga yang jauh lebih murah dibandingkan GSM
+3. Penggunanya yang tidak sebanyak GSM, membuat akses data menjadi lebih cepat
+
+- Kelemahan CDMA
+
+1. Masih ada beberapa operator CDMA yang mengalami roaming
+2. Kompatibiltas handheld yang terbatas
+3. Coverage area yang tidak seluas GSM
+
+Short Message Servive (SMS)
+
+   Suatu fasilitas hanya dari teknologi GSM awalnya yang memungkinkan mobile station mengirim dan menerima pesan singkat berupa text dengan kapasitas maksimal 160 karakter. Proses pengiriman SMS:
+1. SMS dikirim ke MSC melalui tower BTS lalu ke BSC.
+2. Di MSC pesan di forward ke SMSC untuk di simpan.
+3. SMSC lewat HLR(Home Location Register) mengecek apakah handphone tujuan sedang aktif dan di mana lokasinya. Kalau hp tidak aktif, pesan disimpan di SMSC menunggu ada pemberitahuan dari MSC.
+4. Kalau hp aktif pesan dikirim ke MSC diteruskan melalui BSC dan BTS lalu ke penerima.
+
+MMS
+
+   Merupakan jasa nilai tambah dari GSM. MMS bukan aplikasi yang spesifik harus berjalan di atas GPRS.
+
+Mobile TV
+
+   Transmisi program TV atau video untuk peralatanmultimedia dari telepon yang mendukung Mobile TV sampai ke PDA dan peralatan multimedia tanpa kabel.
