@@ -203,4 +203,35 @@ Cara Kerja Satelit
    Satelit yang mengelilingi bumi akan dikontrol oleh Master Control Station di bumi. Pengendalian satelit terletak pada puluhan ribu kilo meter dari bumi yang menggunakan sistem otomatis dan didasarkan pada dua sistem pengendalian yaitu Spin Stabillized Satellite dan Three Axiz Body Stabillized.
     Three Axiz Body Stabillized adalah pengendalian posisi satelit berdasarkan pada sumbu koordinat X, Y dan Z. Dengan tiga sumbu tersebut maka akan dipetakan menjadi posisi pitch, roll dan yaw.
 Stabillized Satellite adalah cara pengendalian satelit dengan menggerakan badan satelit dengan berputar untuk menuju posisi yang diinginkan. Secara teori, satelit akan diam pada tempatnya namun pada kenyataannya akan bergeser dari orbit sebenarnya.
-    Satelit bekerja dengan dibagi dua cara jerja yaitu uplink dan downlink. Uplink adalah transmisi yang dikirim dari bumi menuju ke satelit dan downlink adalah transmisi dari satelit ke bumi. Pada dasarnya komunikasi satelit dan cara kerja satelit berfungsi untuk repeater di langit, satelit juga menggunakan transponders yaitu alat yang dapat memungkinkan terjadinya komunikasi dua arah
+    Satelit bekerja dengan dibagi dua cara jerja yaitu uplink dan downlink. Uplink adalah transmisi yang dikirim dari bumi menuju ke satelit dan downlink adalah transmisi dari satelit ke bumi. Pada dasarnya komunikasi satelit dan cara kerja satelit berfungsi untuk repeater di langit, satelit juga menggunakan transponders yaitu alat yang dapat memungkinkan terjadinya komunikasi dua arah.
+    
+## PERTEMUAN 12
+
+Global Positioning System (GPS)
+
+    GPS adalah sistem yang memungkinkan kita menentukan lokasi secara akurat menggunakan satelit, yang diciptakan oleh Amerika Serikat. Rusia (GLONASS) dan China (BeiDou) pun memiliki solusi penentu lokasi yang serupa. Untuk dapat mengetahui lokasinya dengan menggunakan satelit (GPS/GLONASS/BeiDou), smartphone sebenarnya tidak membutuhkan paket data. Mengapa demikian? Karena, yang dilakukan oleh sistem navigasi di dalam smartphone Anda adalah “mendengar” sinyal dari satelit, bukan melakukan transaksi data.
+
+Kemampuan GPS
+
+1. GPS dapat memberikan informasi tentang posisi, kecepatan, dan waktu secara cepat, akurat, murah, dimana saja di bumi ini pada setiap saat tanpa tergantung cuaca.
+2. GPS adalah satu-satunya sistem navigasi ataupun sistem penentuan posisi, selama beberapa abad ini, yang mempunyai karakteristik prima seperti tersebut.
+
+Aplikasi-aplikasi GPS
+
+1. Aplikasi-aplikasi Militer
+2. Survei & Pemetaan (Darat dan Laut)
+3. Geodesi, Geodinamika, & Deformasi
+4. Navigasi & Transportasi
+5. Studi Troposfir & Ionosfir
+6. Pendaftaran Tanah, Pertanian Photogrammetry & Remote Sensing
+7. GIS (Geographic Information System)
+8. Studi Kelautan (Arus, Gelombang, dan Pasang Surut)
+9. Aplikasi Olahraga & Rekreatif
+
+Cara Kerja GPS
+
+1. Memakai perhitungan “triangulation” dari satelit.
+2. Untuk perhitungan “triangulation”, GPS mengukur jarak menggunakan travel time sinyal radio.
+3. Untuk mengukur travel time, GPS memerlukan memerlukan akurasi waktu yang tinggi.
+4. Untuk perhitungan jarak, kita harus tahu dengan pasti posisi satelit dan ketingian pada orbitnya.
+5. Terakhir harus menggoreksi delay sinyal waktu perjalanan di atmosfer sampai diterima reciever.
